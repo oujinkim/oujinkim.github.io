@@ -1,0 +1,45 @@
+---
+layout: post
+date: 2022-03-04 15:11:38 +0900
+title: "ABC"
+---
+
+yaml
+
+#행운의 편지
+이 편지는 **영국**에서 *시작*\되어\ __굵게__
+
+13. sadfasfsadf
+0. asdfasf
+1. dfdfd
+2. dfdfdfdf
+
+
+>quote
+* asdfasda
+* asdfasfd
+	*asdgasdf
+
+
+``` c
+int main() {
+	printf("hello world\n");
+	return 0;
+}
+```
+
+[마크다운](https://namu.wiki/w/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4)
+![뭐가들어가도 상관x](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
+
+
+
+가나다라
+마바사아
+
+가나다라  
+마바사아
+
+가나다라
+마바사아 \
+
+
