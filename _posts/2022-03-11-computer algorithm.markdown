@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "C&A!"
 date:   2022-03-11 15:49:33 +0900
 categories: jekyll update
 ---
