@@ -17,6 +17,6 @@ What are git, github, jekyll and ruby
 >ruby :   동적 객체 지향 스크립트 프로그래밍 언어  
  
   
-![](https://raw.githubusercontent.com/hxxn85/hxxn85.github.io/master/assets/img/overview.png)
+![](https://raw.githubusercontent.com/hxxn85/hxxn85.github.io/master/assets/img/overview.png)  
 [출처 사이트 : hxxn85.github.io](https://hxxn85.github.io/)
 
