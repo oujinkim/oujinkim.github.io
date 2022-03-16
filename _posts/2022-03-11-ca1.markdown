@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "What are git, github, jekyll and ruby"
+date:   2022-03-16 18:49:33 +0900
+categories: jekyll update
+---
+
+What are git, github, jekyll and ruby
+===========
+
+>git : 분산형 버전 관리 시스템으로 로컬 저장소(local repository)   
+
+>github : git의 온라인 저장소(remote repository)  
+
+>jekyll : 마크다운과 같은 동적 구성요소로 평문을 정적 웹사이트로 변환해주는 툴 
+
+>ruby :   동적 객체 지향 스크립트 프로그래밍 언어  
+ 
+  
+![](https://raw.githubusercontent.com/hxxn85/hxxn85.github.io/master/assets/img/overview.png)
+[출처 사이트 : hxxn85.github.io](https://hxxn85.github.io/)
+
