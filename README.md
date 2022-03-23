@@ -1,2 +1,4 @@
-#Praticing blog for what i learned
+#Praticing blog for what i learned  
+hello!
+
 
