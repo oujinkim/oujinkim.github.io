@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 date: 2022-03-04 15:11:38 +0900
 title: "ABC"
 ---

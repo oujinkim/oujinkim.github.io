@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "What are git, github, jekyll and ruby"
 date:   2022-03-16 18:49:33 +0900
 categories: jekyll update
